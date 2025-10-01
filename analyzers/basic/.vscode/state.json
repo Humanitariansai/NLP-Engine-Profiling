@@ -1,0 +1,10 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentTextFile": "/home/redlightning/Workspace/Git_repos/nlp-engine/visualtext/analyzers/basic/input/text.txt",
+            "currentPassFile": "/home/redlightning/Workspace/Git_repos/nlp-engine/visualtext/analyzers/basic/spec/analyzer.seq"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+Failed: purchase
+Failed: sale
+Failed: the sale
+Failed: sale
+Failed: the sale
+Failed: the sale
+Failed: purchase
+Failed: sale
+Failed: the sale
+Failed: sale
+Failed: the sale
+Failed: the sale
+Failed: purchase
+Failed: sale
+Failed: the sale
+Failed: sale
+Failed: the sale
+Failed: the sale
+Failed: purchase
+Failed: sale
+Failed: the sale
+Failed: sale
+Failed: the sale
+Failed: the sale
