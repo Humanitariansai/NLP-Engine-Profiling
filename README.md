@@ -5,5 +5,5 @@ Perform memory and CPU-time profiling on the NLP engine to determine bottlenecks
 ***Fellows:***
 Niranjan Kumar Ilampooranan
 
-***Supervisors***
+***Supervisors:***
 David de Hilster, Amnon Myers
