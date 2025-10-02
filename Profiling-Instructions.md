@@ -34,7 +34,7 @@ You will see the configuration screen:
   - **Hotspots** (for CPU time)
   - **Memory Consumption** (for memory allocation)
 
-If hardware-mode sampling is not available (which is usually the case and is a pain to set up), set the following values to `0` (paths are relative to the install dir):
+If hardware-mode sampling is not available (which is usually the case and is a pain to set up), set the values to `0` in the following files (paths are relative to the install dir):
 
 ```
 /proc/sys/kernel/perf_event_paranoid
